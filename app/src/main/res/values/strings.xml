@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="btnTomarfoto">Tomar Foto</string>
+    <string name="btnAbrirActCamara">Abrir Activity de Camara</string>
+    <string name="btnGuardarFoto">Guardar Foto</string>
+    <string name="btnCerrarActCamara">Cerrar Activity</string>
+    <string name="txtLocacion">Locacion no Disponible</string>
+    <string name="btnLocacion">Conseguir Locacion Actual</string>
+    <string name="btnGuardar">Guardar Locacion</string>
+    <string name="btnAbrirActLoc">Abrir Activity de Locacion</string>
+
+</resources>
